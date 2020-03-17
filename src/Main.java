@@ -9,6 +9,7 @@ public class Main {
 		//2020.03.17일 더하기 수정 Semisongsong
 		int c = a+b;
 		System.out.println(c);
+		System.out.println("hi");
 		
 	}
 
